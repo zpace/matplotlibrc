@@ -1,0 +1,18 @@
+#Astrophysical Journal figure, with two columns (6.8in wide & deep)
+
+###LINES
+lines.linewidth		:	2.0
+
+###FONT
+font.size		:	8.0
+
+###AXES
+axes.titlesize		:	18
+axes.labelsize		:	18
+
+###FIGURE
+figure.figsize		:	6.8,6.8
+figure.dpi		:	300
+
+###SAVING FIGURES
+savefig.dpi		:	300

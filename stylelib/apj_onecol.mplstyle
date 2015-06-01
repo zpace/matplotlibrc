@@ -1,0 +1,18 @@
+#Astrophysical Journal figure, with one column (3.4in wide & deep)
+
+###LINES
+lines.linewidth		:	2.0
+
+###FONT
+font.size		:	8.0
+
+###AXES
+axes.titlesize		:	12
+axes.labelsize		:	12
+
+###FIGURE
+figure.figsize		:	3.4,3.4
+figure.dpi		:	300
+
+###SAVING FIGURES
+savefig.dpi		:	300
